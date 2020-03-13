@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/EvanescoJS/static/css/main.d1b05096.chunk.css",
+    "main.js": "/EvanescoJS/static/js/main.7a364fea.chunk.js",
+    "main.js.map": "/EvanescoJS/static/js/main.7a364fea.chunk.js.map",
+    "runtime-main.js": "/EvanescoJS/static/js/runtime-main.afddb56e.js",
+    "runtime-main.js.map": "/EvanescoJS/static/js/runtime-main.afddb56e.js.map",
+    "static/js/2.66069193.chunk.js": "/EvanescoJS/static/js/2.66069193.chunk.js",
+    "static/js/2.66069193.chunk.js.map": "/EvanescoJS/static/js/2.66069193.chunk.js.map",
+    "index.html": "/EvanescoJS/index.html",
+    "precache-manifest.006fa7bb1cd8f3d732aca7e42c6c66d8.js": "/EvanescoJS/precache-manifest.006fa7bb1cd8f3d732aca7e42c6c66d8.js",
+    "service-worker.js": "/EvanescoJS/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/EvanescoJS/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.66069193.chunk.js.LICENSE.txt": "/EvanescoJS/static/js/2.66069193.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afddb56e.js",
+    "static/js/2.66069193.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.7a364fea.chunk.js"
+  ]
+}
