@@ -2,7 +2,7 @@
   "name": "textobfuscation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ad9000.github.io/Evanesco",
+  "homepage": "https://ad9000.github.io/EvanescoJS",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
